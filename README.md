@@ -1,3 +1,3 @@
 # Blah
 
-Android app that stores pet data into a database to be used for dog shelters. Built using Java and Android Studio Framework. Uses SQLite databases
+Blah is a simple Android Realtime Chat App that you can use to stay in touch with friends. You can send text and images to anyone using the app.It was built with Java, the Android Studio Framework and with the help of the Google Firebase Android Development Platform.
